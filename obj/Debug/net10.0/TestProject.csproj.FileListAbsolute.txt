@@ -1,0 +1,14 @@
+/Users/johnberich/VSCode Class 350/CsharpProjects/TestProject/bin/Debug/net10.0/TestProject
+/Users/johnberich/VSCode Class 350/CsharpProjects/TestProject/bin/Debug/net10.0/TestProject.deps.json
+/Users/johnberich/VSCode Class 350/CsharpProjects/TestProject/bin/Debug/net10.0/TestProject.runtimeconfig.json
+/Users/johnberich/VSCode Class 350/CsharpProjects/TestProject/bin/Debug/net10.0/TestProject.dll
+/Users/johnberich/VSCode Class 350/CsharpProjects/TestProject/bin/Debug/net10.0/TestProject.pdb
+/Users/johnberich/VSCode Class 350/CsharpProjects/TestProject/obj/Debug/net10.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johnberich/VSCode Class 350/CsharpProjects/TestProject/obj/Debug/net10.0/TestProject.AssemblyInfoInputs.cache
+/Users/johnberich/VSCode Class 350/CsharpProjects/TestProject/obj/Debug/net10.0/TestProject.AssemblyInfo.cs
+/Users/johnberich/VSCode Class 350/CsharpProjects/TestProject/obj/Debug/net10.0/TestProject.csproj.CoreCompileInputs.cache
+/Users/johnberich/VSCode Class 350/CsharpProjects/TestProject/obj/Debug/net10.0/TestProject.dll
+/Users/johnberich/VSCode Class 350/CsharpProjects/TestProject/obj/Debug/net10.0/refint/TestProject.dll
+/Users/johnberich/VSCode Class 350/CsharpProjects/TestProject/obj/Debug/net10.0/TestProject.pdb
+/Users/johnberich/VSCode Class 350/CsharpProjects/TestProject/obj/Debug/net10.0/TestProject.genruntimeconfig.cache
+/Users/johnberich/VSCode Class 350/CsharpProjects/TestProject/obj/Debug/net10.0/ref/TestProject.dll
