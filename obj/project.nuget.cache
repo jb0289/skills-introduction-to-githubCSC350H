@@ -1,8 +1,19 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "oFnyxvg3I+Y=",
   "success": true,
   "projectFilePath": "/Users/johnberich/VSCode Class 350/CsharpProjects/TestProject/TestProject.csproj",
   "expectedPackageFiles": [],
+=======
+  "dgSpecHash": "X/6sj/9X8OQ=",
+  "success": true,
+  "projectFilePath": "/Users/johnberich/VSCode Class 350/GuidedProject/.NET8Projects/Starter/Starter.csproj",
+  "expectedPackageFiles": [
+    "/Users/johnberich/.nuget/packages/microsoft.netcore.app.ref/8.0.23/microsoft.netcore.app.ref.8.0.23.nupkg.sha512",
+    "/Users/johnberich/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.23/microsoft.aspnetcore.app.ref.8.0.23.nupkg.sha512",
+    "/Users/johnberich/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.23/microsoft.netcore.app.host.osx-arm64.8.0.23.nupkg.sha512"
+  ],
+>>>>>>> f3e525e (Completed Guided Project: CSC 350)
   "logs": []
 }

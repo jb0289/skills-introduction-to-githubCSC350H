@@ -1,11 +1,19 @@
 {
   "version": 3,
   "targets": {
+<<<<<<< HEAD
     "net10.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
     "net10.0": []
+=======
+    "net8.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net8.0": []
+>>>>>>> f3e525e (Completed Guided Project: CSC 350)
   },
   "packageFolders": {
     "/Users/johnberich/.nuget/packages/": {}
@@ -13,24 +21,41 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "/Users/johnberich/VSCode Class 350/CsharpProjects/TestProject/TestProject.csproj",
       "projectName": "TestProject",
       "projectPath": "/Users/johnberich/VSCode Class 350/CsharpProjects/TestProject/TestProject.csproj",
       "packagesPath": "/Users/johnberich/.nuget/packages/",
       "outputPath": "/Users/johnberich/VSCode Class 350/CsharpProjects/TestProject/obj/",
+=======
+      "projectUniqueName": "/Users/johnberich/VSCode Class 350/GuidedProject/.NET8Projects/Starter/Starter.csproj",
+      "projectName": "Starter",
+      "projectPath": "/Users/johnberich/VSCode Class 350/GuidedProject/.NET8Projects/Starter/Starter.csproj",
+      "packagesPath": "/Users/johnberich/.nuget/packages/",
+      "outputPath": "/Users/johnberich/VSCode Class 350/GuidedProject/.NET8Projects/Starter/obj/",
+>>>>>>> f3e525e (Completed Guided Project: CSC 350)
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/johnberich/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
+<<<<<<< HEAD
         "net10.0"
+=======
+        "net8.0"
+>>>>>>> f3e525e (Completed Guided Project: CSC 350)
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
+<<<<<<< HEAD
         "net10.0": {
           "targetAlias": "net10.0",
+=======
+        "net8.0": {
+          "targetAlias": "net8.0",
+>>>>>>> f3e525e (Completed Guided Project: CSC 350)
           "projectReferences": {}
         }
       },
@@ -42,13 +67,22 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
+<<<<<<< HEAD
         "auditMode": "all"
+=======
+        "auditMode": "direct"
+>>>>>>> f3e525e (Completed Guided Project: CSC 350)
       },
       "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
+<<<<<<< HEAD
       "net10.0": {
         "targetAlias": "net10.0",
+=======
+      "net8.0": {
+        "targetAlias": "net8.0",
+>>>>>>> f3e525e (Completed Guided Project: CSC 350)
         "imports": [
           "net461",
           "net462",
@@ -60,11 +94,29 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+<<<<<<< HEAD
+=======
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.23, 8.0.23]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.osx-arm64",
+            "version": "[8.0.23, 8.0.23]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.23, 8.0.23]"
+          }
+        ],
+>>>>>>> f3e525e (Completed Guided Project: CSC 350)
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
@@ -340,6 +392,9 @@
           "System.Xml.XPath": "(,4.3.32767]",
           "System.Xml.XPath.XDocument": "(,5.0.32767]"
         }
+=======
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/PortableRuntimeIdentifierGraph.json"
+>>>>>>> f3e525e (Completed Guided Project: CSC 350)
       }
     }
   }

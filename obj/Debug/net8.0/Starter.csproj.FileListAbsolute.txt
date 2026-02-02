@@ -1,0 +1,14 @@
+/Users/johnberich/VSCode Class 350/GuidedProject/.NET8Projects/Starter/bin/Debug/net8.0/Starter
+/Users/johnberich/VSCode Class 350/GuidedProject/.NET8Projects/Starter/bin/Debug/net8.0/Starter.deps.json
+/Users/johnberich/VSCode Class 350/GuidedProject/.NET8Projects/Starter/bin/Debug/net8.0/Starter.runtimeconfig.json
+/Users/johnberich/VSCode Class 350/GuidedProject/.NET8Projects/Starter/bin/Debug/net8.0/Starter.dll
+/Users/johnberich/VSCode Class 350/GuidedProject/.NET8Projects/Starter/bin/Debug/net8.0/Starter.pdb
+/Users/johnberich/VSCode Class 350/GuidedProject/.NET8Projects/Starter/obj/Debug/net8.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johnberich/VSCode Class 350/GuidedProject/.NET8Projects/Starter/obj/Debug/net8.0/Starter.AssemblyInfoInputs.cache
+/Users/johnberich/VSCode Class 350/GuidedProject/.NET8Projects/Starter/obj/Debug/net8.0/Starter.AssemblyInfo.cs
+/Users/johnberich/VSCode Class 350/GuidedProject/.NET8Projects/Starter/obj/Debug/net8.0/Starter.csproj.CoreCompileInputs.cache
+/Users/johnberich/VSCode Class 350/GuidedProject/.NET8Projects/Starter/obj/Debug/net8.0/Starter.dll
+/Users/johnberich/VSCode Class 350/GuidedProject/.NET8Projects/Starter/obj/Debug/net8.0/refint/Starter.dll
+/Users/johnberich/VSCode Class 350/GuidedProject/.NET8Projects/Starter/obj/Debug/net8.0/Starter.pdb
+/Users/johnberich/VSCode Class 350/GuidedProject/.NET8Projects/Starter/obj/Debug/net8.0/Starter.genruntimeconfig.cache
+/Users/johnberich/VSCode Class 350/GuidedProject/.NET8Projects/Starter/obj/Debug/net8.0/ref/Starter.dll
