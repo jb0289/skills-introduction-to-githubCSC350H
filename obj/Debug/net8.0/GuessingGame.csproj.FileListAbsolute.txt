@@ -1,0 +1,14 @@
+/Users/johnberich/Downloads/Lab#2 CSC350/obj/Debug/net8.0/GuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johnberich/Downloads/Lab#2 CSC350/obj/Debug/net8.0/GuessingGame.AssemblyInfoInputs.cache
+/Users/johnberich/Downloads/Lab#2 CSC350/obj/Debug/net8.0/GuessingGame.AssemblyInfo.cs
+/Users/johnberich/Downloads/Lab#2 CSC350/obj/Debug/net8.0/GuessingGame.csproj.CoreCompileInputs.cache
+/Users/johnberich/Downloads/Lab#2 CSC350/bin/Debug/net8.0/GuessingGame
+/Users/johnberich/Downloads/Lab#2 CSC350/bin/Debug/net8.0/GuessingGame.deps.json
+/Users/johnberich/Downloads/Lab#2 CSC350/bin/Debug/net8.0/GuessingGame.runtimeconfig.json
+/Users/johnberich/Downloads/Lab#2 CSC350/bin/Debug/net8.0/GuessingGame.dll
+/Users/johnberich/Downloads/Lab#2 CSC350/bin/Debug/net8.0/GuessingGame.pdb
+/Users/johnberich/Downloads/Lab#2 CSC350/obj/Debug/net8.0/GuessingGame.dll
+/Users/johnberich/Downloads/Lab#2 CSC350/obj/Debug/net8.0/refint/GuessingGame.dll
+/Users/johnberich/Downloads/Lab#2 CSC350/obj/Debug/net8.0/GuessingGame.pdb
+/Users/johnberich/Downloads/Lab#2 CSC350/obj/Debug/net8.0/GuessingGame.genruntimeconfig.cache
+/Users/johnberich/Downloads/Lab#2 CSC350/obj/Debug/net8.0/ref/GuessingGame.dll
